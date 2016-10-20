@@ -1,2 +1,8 @@
+#changes string to uppercase letters
 title = "wind in the willows"
 tile.upper()
+#check if string is all digits or all letters
+birth_year = "1971"
+birth_year.isdigit()
+state = "CA"
+state.isalpha()
